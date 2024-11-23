@@ -25,7 +25,8 @@
 
 <!-- body start -->
 
-<body data-menu-color="light" data-sidebar="default" <!-- Begin page -->
+<body data-menu-color="light" data-sidebar="default" 
+<!-- Begin page -->
     <div id="app-layout">
 
 
@@ -119,7 +120,6 @@
 
         <!-- ============================================================== -->
         <!-- Start Page Content here -->
-        <!-- ============================================================== -->
 
         <div class="content-page">
             <div class="content">

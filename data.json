@@ -1,0 +1,8 @@
+{
+    "kandidat": [
+        { "id": 1, "nama": "Muhammad Rafli", "foto": "assets/images/users/user-12.jpg", "suara": 20 },
+        { "id": 2, "nama": "Muhammad Ridha", "foto": "assets/images/users/user-13.jpg", "suara": 15 },
+        { "id": 3, "nama": "Muhammad Ridha", "foto": "assets/images/users/user-13.jpg", "suara": 15 }
+    ],
+    "terpilih": { "id": 1, "nama": "Muhammad Rafli", "foto": "assets/images/users/user-12.jpg" }
+}
